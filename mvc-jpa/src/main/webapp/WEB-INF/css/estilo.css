@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body{
+	backround-color: #008040;
+	background-position: center;
+    text-align: left;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+	
+	backround-color: #0080ff;
+	font-family: Arial;
+}
